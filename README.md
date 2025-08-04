@@ -55,9 +55,8 @@ which must have led to the attrition of employees.
  Although quite a significant number also need to improve and this is easily observed in recent years(2020, 2021, &2022)
 
 # Conculsion 
-- this analysis how most attrition are occuring and the various facrors leading to high attritions .
-to address issues faced by the organistaion the comapny can fous on improving onboarding, career development, and management support
-particularly in high attritiono roles. Stregthening these areas can boost retention, enhance employee satisfaction, and protect valueable talents.
+- In Conclusion, this analysis show how most attrition are occurring and the various factors leading to high attritions. To address issues faced by the organization the company can focus on improving onboarding, career development, and management support particularly in high attrition roles. Strengthening these areas can boost retention, enhance employee satisfaction, and protect valuable talents.
+
 
 
 
